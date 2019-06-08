@@ -25,6 +25,10 @@ CN warehouse: http://bit.ly/2K77Qrd
 
 There are various TTGO ESP32 boards available, different formats, different prices, worth browsing before buying. 
 
+Other ESP32-related links:  
+Hardware design reference: https://public.robotical.io/Datasheets/ESP32%20Hardware%20Design%20Guidelines.pdf  
+Getting started with the ESP32: https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html  
+
 ---
 
 Nothing to do with this video, but I bought a dual solder reel holder, works like a charm and very solid. 
