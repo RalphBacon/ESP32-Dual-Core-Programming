@@ -4,10 +4,9 @@ An absolute beginners' introduction to dual-core processing using the keenly-pri
 ## See https://www.youtube.com/ralphbacon video #149
 ### (Direct Link to video: https://youtu.be/jpVcCmh8sig)
 
-### Happy Birthday to PCBWay.com who are celebrating their 5th birthday all this month!
-#### They want to share some goodies with you so visit
-#### https://www.pcbway.com/anniversary5sales.html
-#### and see what might take your fancy.
+#### Happy Birthday to PCBWay.com who are celebrating their 5th birthday all this month (June 2019)!
+##### They want to share some goodies with you so visit
+##### https://www.pcbway.com/anniversary5sales.html and see what might take your fancy.
 
 #### PCB Prototype the Easy Way - Full feature custom PCB prototype service.
 #### $5 for 10 PCBs: https://www.pcbway.com/
