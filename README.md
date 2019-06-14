@@ -29,6 +29,8 @@ Other ESP32-related links:
 Hardware design reference: https://public.robotical.io/Datasheets/ESP32%20Hardware%20Design%20Guidelines.pdf  
 Getting started with the ESP32: https://docs.espressif.com/projects/esp-idf/en/latest/get-started/index.html  
 
+Arduinite **Mike Lopez** says: There is a good tutorial on free RTOS at www.freertos.org/tutorial. Thanks, Mike!
+
 ---
 
 Nothing to do with this video, but I bought a dual solder reel holder, works like a charm and very solid. 
